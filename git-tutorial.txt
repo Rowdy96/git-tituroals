@@ -1,3 +1,4 @@
 Rahul Mondal
 Job: Angular Development
-Contact: 6294469294
+Exp: 2 yrs
+>>>>>>> development
